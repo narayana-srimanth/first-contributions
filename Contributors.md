@@ -1,5 +1,6 @@
 # Contributors
-- [Narayana Udayagiri] (https://github.com/narayana-srimanth) 
+- [Narayana Udayagiri](https://github.com/narayana-srimanth) **HHii gguyys**
+
 - [Vimal Vinod](https://github.com/dalekvim) **Vimal's First open source contribution!**
 - [Adarsh Tiwari](https://github.com/Adarsh753) **Adarsh's First open source contribution!**
 - [Phoebe Gangoso](https://github.com/peewweee) **Phoebe's First open source contribution!**
